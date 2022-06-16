@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 /**
+ * 工具类 获取连接
  * @author : pety
  * @date : 2022/6/15 20:33
  */
